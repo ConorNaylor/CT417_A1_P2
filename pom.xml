@@ -24,8 +24,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.github.ConorNaylor</groupId>
-			<artifactId>CT417SoftwareEngineeringIII</artifactId>
-			<version>9bf6a121b9</version>
+			<artifactId>CT417_A1_P1</artifactId>
+			<version>-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
